@@ -1,0 +1,3 @@
+📌 Prompt + file mẫu Tập 17: https://github.com/vitbau246/tu-dong-hoa-voi-claude/tree/main/tap-17-dang-wordpress-da-kenh
+Chạy python chuan-bi.py là có dữ liệu y hệt video.
+💬 Sau khi viết xong một bài blog, bạn mất thêm bao lâu để đăng và chia sẻ lên các kênh? ⏱️

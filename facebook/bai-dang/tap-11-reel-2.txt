@@ -1,0 +1,4 @@
+Khi Claude đọc web, nó không đọc nguyên trang. Bạn cần biết điều này.
+
+🎬 Bản đầy đủ 5 phút: Tập 11 trên trang: Nghiên cứu bằng AI mà không sợ bịa số: mọi con số được kiểm chứng
+#5PhutTuDongHoa #FoxFlow #TuDongHoa #ClaudeCode #VSCode

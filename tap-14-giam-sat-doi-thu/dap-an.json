@@ -1,0 +1,49 @@
+{
+  "giam_gia": {
+    "VP-001": {
+      "truoc": 5490000,
+      "sau": 4590000,
+      "phan_tram": -16.4,
+      "doi_thu_re_hon_minh": "15.0%"
+    },
+    "VP-002": {
+      "truoc": 2890000,
+      "sau": 2450000,
+      "phan_tram": -15.2,
+      "doi_thu_re_hon_minh": "14.0%"
+    },
+    "VP-003": {
+      "truoc": 3350000,
+      "sau": 2890000,
+      "phan_tram": -13.7,
+      "doi_thu_re_hon_minh": "12.2%"
+    }
+  },
+  "tang_gia": {
+    "VP-006": {
+      "truoc": 395000,
+      "sau": 425000,
+      "phan_tram": 7.6
+    },
+    "VP-005": {
+      "truoc": 710000,
+      "sau": 750000,
+      "phan_tram": 5.6
+    }
+  },
+  "het_hang": [
+    "VP-008",
+    "VP-013"
+  ],
+  "co_hang_lai": [
+    "VP-010"
+  ],
+  "san_pham_moi": [
+    "VP-016",
+    "VP-017"
+  ],
+  "ngung_ban": [
+    "VP-012"
+  ],
+  "tong_so_thay_doi": 11
+}

@@ -1,0 +1,3 @@
+📌 Prompt + file mẫu Tập 5: https://github.com/vitbau246/tu-dong-hoa-voi-claude/tree/main/tap-05-skills-bao-cao-tuan
+Chạy python chuan-bi.py là có dữ liệu y hệt video.
+💬 Chiều thứ Sáu bạn mất bao lâu để viết báo cáo tuần? ⏰

@@ -1,0 +1,5 @@
+Việc nhập dữ liệu từ Excel vào form web nào khiến bạn ngán nhất? 😩
+
+👉 Thứ 3 này lúc 11:45: Tập 7: Cho Claude tự lái trình duyệt: thu thập dữ liệu + điền form (MCP)
+
+#5PhutTuDongHoa #FoxFlow #TuDongHoa #ClaudeCode #VSCode

@@ -1,0 +1,20 @@
+{
+  "tong_trich_dan": 100,
+  "so_trang": 10,
+  "so_tac_gia": 50,
+  "top3_tac_gia": {
+    "Albert Einstein": 10,
+    "J.K. Rowling": 9,
+    "Marilyn Monroe": 7
+  },
+  "lien_ket_goodreads": {
+    "chua_dang_nhap": 0,
+    "da_dang_nhap": 100
+  },
+  "html_goc_trang_scroll_co_bao_nhieu_trich_dan": 0,
+  "api_cua_sau": "https://quotes.toscrape.com/api/quotes?page=N (JSON, has_next)",
+  "do_thoi_gian_30_10_2026": {
+    "goi_API": "7,6 giây",
+    "script_Playwright_co_dang_nhap": "20,5 giây"
+  }
+}

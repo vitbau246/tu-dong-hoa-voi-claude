@@ -1,0 +1,12 @@
+Không chạm chuột. Trình duyệt tự đọc 3 trang sản phẩm và tự điền 5 form đăng ký.
+
+Trong 5 phút, bạn sẽ biết:
+✅ MCP là gì: "cổng USB" cho AI
+✅ Thu thập nhiều trang, xử lý đúng giá khuyến mãi và giá "Liên hệ"
+✅ Điền form hàng loạt có ảnh chụp làm bằng chứng
+
+📌 Prompt + file mẫu để làm theo: ở bình luận đầu tiên.
+🔔 Theo dõi trang để không lỡ Tập 8: Máy tự làm bản tin lúc 7:30 sáng, khi bạn còn đang ngủ
+
+— FoxFlow · 5 phút tự động hóa
+#5PhutTuDongHoa #FoxFlow #TuDongHoa #ClaudeCode #VSCode

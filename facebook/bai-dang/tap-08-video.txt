@@ -1,0 +1,12 @@
+7:30 sáng. Mở máy lên, bản tin đã nằm sẵn: 5 tin đáng đọc, việc quá hạn tô đỏ.
+
+Trong 5 phút, bạn sẽ biết:
+✅ claude -p: chạy AI không cần mở cửa sổ
+✅ Chỉ cấp đúng quyền cần thiết (một tên miền duy nhất)
+✅ Hẹn giờ bằng Task Scheduler, tắt máy vẫn chạy bù
+
+📌 Prompt + file mẫu để làm theo: ở bình luận đầu tiên.
+🔔 Theo dõi trang để không lỡ Tập 9: Báo giá "rẻ nhất" hóa ra ĐẮT NHẤT: đội 3 trợ lý AI
+
+— FoxFlow · 5 phút tự động hóa
+#5PhutTuDongHoa #FoxFlow #TuDongHoa #ClaudeCode #VSCode

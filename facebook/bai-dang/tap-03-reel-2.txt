@@ -1,0 +1,4 @@
+Trùng SỐ hóa đơn chưa chắc là trùng hóa đơn. Một câu trong prompt tránh được 4 cảnh báo sai.
+
+🎬 Bản đầy đủ 5 phút: Tập 3 trên trang: 30 hóa đơn PDF vào Excel trong 2 phút, bắt 3 hóa đơn có vấn đề
+#5PhutTuDongHoa #FoxFlow #TuDongHoa #ClaudeCode #VSCode

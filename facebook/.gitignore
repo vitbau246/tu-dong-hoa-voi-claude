@@ -1,0 +1,5 @@
+.env
+media/**/*.mp4
+nhat-ky-dang.txt
+__pycache__/
+anh-chup/

@@ -1,0 +1,12 @@
+40 thư mời, tên ai người nấy. 37 email nháp kèm sẵn PDF. Và lúc AI DỪNG LẠI HỎI thay vì tự đoán.
+
+Trong 5 phút, bạn sẽ biết:
+✅ Soát danh sách: dòng trùng, thiếu email, email sai định dạng
+✅ Trộn thư giữ nguyên định dạng Word, xuất PDF hàng loạt
+✅ Nguyên tắc vàng: AI chuẩn bị, NGƯỜI bấm gửi
+
+📌 Prompt + file mẫu để làm theo: ở bình luận đầu tiên.
+🔔 Theo dõi trang để không lỡ Tập 5: Báo cáo tuần chỉ bằng MỘT lệnh (CLAUDE.md + Skills)
+
+— FoxFlow · 5 phút tự động hóa
+#5PhutTuDongHoa #FoxFlow #TuDongHoa #ClaudeCode #VSCode

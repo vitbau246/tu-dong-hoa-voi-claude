@@ -1,0 +1,20 @@
+{
+  "TCO_3_nam_50_nguoi": {
+    "A - Đông Á Digital": 240000000,
+    "B - Sao Việt": 392040000,
+    "C - Hoàn Cầu Enterprise": 330000000
+  },
+  "chi_tiet_B": {
+    "gia_quang_cao_30_nguoi": 189000000,
+    "them_20_nguoi_x_1.5tr_x_3_nam": 90000000,
+    "phi_trien_khai_phu_luc_2": 45000000,
+    "bao_tri_nam_2_va_3_(18%/nam)": 68040000,
+    "rui_ro_ngoai_TCO": "Phí xuất dữ liệu khi chấm dứt 25.000.000 đ; dữ liệu lưu tại Singapore (VI PHẠM yêu cầu bắt buộc 1); SLA 99,0% không bồi hoàn; hỗ trợ 8x5; trả trước 100%"
+  },
+  "xep_hang_TCO": [
+    "A (240tr)",
+    "C (330tr)",
+    "B (392.04tr)"
+  ],
+  "khuyen_nghi": "A nếu ưu tiên chi phí (đáp ứng đủ 5 yêu cầu bắt buộc; điểm yếu: app chưa offline, hỗ trợ 8x5). C nếu cần SLA 99,9% và hỗ trợ 24/7 (đắt hơn A 90tr). B bị loại do vi phạm yêu cầu lưu trữ dữ liệu tại Việt Nam."
+}

@@ -1,0 +1,3 @@
+📌 Prompt + file mẫu Tập 10: https://github.com/vitbau246/tu-dong-hoa-voi-claude/tree/main/tap-10-plugin-cho-ca-team
+Chạy python chuan-bi.py là có dữ liệu y hệt video.
+💬 Phòng bạn có ai đang "giữ bí kíp" làm việc nhanh mà chưa chia sẻ không? 😄

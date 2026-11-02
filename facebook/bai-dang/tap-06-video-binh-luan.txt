@@ -1,0 +1,3 @@
+📌 Prompt + file mẫu Tập 6: https://github.com/vitbau246/tu-dong-hoa-voi-claude/tree/main/tap-06-hooks-an-toan
+Chạy python chuan-bi.py là có dữ liệu y hệt video.
+💬 Bạn có dám để AI làm việc trên dữ liệu thật của công ty không? Vì sao? 🤔

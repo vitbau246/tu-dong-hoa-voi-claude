@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vpp-anphat.example/doanh-nghiep/sitemap.xml

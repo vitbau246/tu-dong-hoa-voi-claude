@@ -1,0 +1,12 @@
+318 file lộn xộn → 7 thư mục, 27 file trùng bị tìm ra. Giữa chừng có sự cố thật, và file hoàn tác đã cứu cả thư mục.
+
+Trong 5 phút, bạn sẽ biết:
+✅ Cài Claude vào VS Code, bắt AI lập kế hoạch trước (chế độ Plan)
+✅ AI hỏi lại chỗ mơ hồ ngay trong prompt của bạn
+✅ Vì sao PHẢI có file hoàn tác: nút Rewind không cứu được trong trường hợp này
+
+📌 Prompt + file mẫu để làm theo: ở bình luận đầu tiên.
+🔔 Theo dõi trang để không lỡ Tập 2: Gộp 12 file Excel, phát hiện báo cáo SAI 2,5 tỷ
+
+— FoxFlow · 5 phút tự động hóa
+#5PhutTuDongHoa #FoxFlow #TuDongHoa #ClaudeCode #VSCode

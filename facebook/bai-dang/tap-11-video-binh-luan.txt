@@ -1,0 +1,3 @@
+📌 Prompt + file mẫu Tập 11: https://github.com/vitbau246/tu-dong-hoa-voi-claude/tree/main/tap-11-nghien-cuu-trich-nguon
+Chạy python chuan-bi.py là có dữ liệu y hệt video.
+💬 Bạn đã bao giờ bắt gặp AI "bịa" số liệu chưa? Kể mình nghe 👇

@@ -1,0 +1,3 @@
+📌 Prompt + file mẫu Tập 3: https://github.com/vitbau246/tu-dong-hoa-voi-claude/tree/main/tap-03-hoa-don-pdf
+Chạy python chuan-bi.py là có dữ liệu y hệt video.
+💬 Kế toán ơi, mỗi tháng bạn nhập tay bao nhiêu hóa đơn? 🧾

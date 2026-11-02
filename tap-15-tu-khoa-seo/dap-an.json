@@ -1,0 +1,29 @@
+{
+  "so_dong_truy_van_theo_trang": 74,
+  "so_truy_van": 73,
+  "quy_tac": {
+    "sat_trang_1": "vị trí 8–20 VÀ hiển thị ≥ 2.000",
+    "ctr_thap": "vị trí ≤ 5 VÀ CTR < 40% CTR chuẩn của vị trí đó",
+    "tu_canh_tranh": "≥ 2 trang cùng 1 truy vấn, mỗi trang ≥ 500 hiển thị"
+  },
+  "sat_trang_1": [
+    "ghế công thái học (11,2 · 18.400 · +934 click)",
+    "máy hủy tài liệu (14,6 · 7.300)",
+    "ghế công thái học giá rẻ (9,8 · 6.200)",
+    "bàn làm việc chân sắt (11,1 gộp · 5.800 - BỊ KẸT DO TỰ CẠNH TRANH)",
+    "bảng trắng văn phòng (17,4 · 3.900)",
+    "máy hủy tài liệu mini (12,3 · 2.100)"
+  ],
+  "ctr_thap_tiem_nang": "giấy a4 double a giá: +901 click/3 tháng chỉ nhờ viết lại tiêu đề + mô tả",
+  "ctr_thap": [
+    "giấy a4 double a giá (vị trí 2,8 · CTR 1,1%)",
+    "mua giấy a4 số lượng lớn (vị trí 3,4 · CTR 1,4%)"
+  ],
+  "tu_canh_tranh": {
+    "bàn làm việc chân sắt": [
+      "/ban-lam-viec-chan-sat (9,6)",
+      "/blog/cach-chon-ban-lam-viec (12,9)"
+    ]
+  },
+  "uu_tien_so_1": "ghế công thái học: hiển thị lớn nhất + đúng nhóm biên lợi nhuận cao (website.md)"
+}

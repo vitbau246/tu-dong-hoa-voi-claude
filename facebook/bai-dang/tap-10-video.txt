@@ -1,0 +1,12 @@
+Đồng nghiệp gõ 2 lệnh, và máy họ có đủ mọi công cụ mình xây trong 9 tập.
+
+Trong 5 phút, bạn sẽ biết:
+✅ Plugin: gom skill, agent, hook thành một gói
+✅ Marketplace nội bộ: cả phòng cài và cập nhật
+✅ Lộ trình 30 ngày để tự động hóa công việc của bạn
+
+📌 Prompt + file mẫu để làm theo: ở bình luận đầu tiên.
+🔔 Theo dõi trang để không lỡ Tập 11: Nghiên cứu bằng AI mà không sợ bịa số: mọi con số được kiểm chứng
+
+— FoxFlow · 5 phút tự động hóa
+#5PhutTuDongHoa #FoxFlow #TuDongHoa #ClaudeCode #VSCode

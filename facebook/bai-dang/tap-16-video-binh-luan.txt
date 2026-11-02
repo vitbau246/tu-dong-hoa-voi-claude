@@ -1,0 +1,3 @@
+📌 Prompt + file mẫu Tập 16: https://github.com/vitbau246/tu-dong-hoa-voi-claude/tree/main/tap-16-viet-bai-chuan-seo
+Chạy python chuan-bi.py là có dữ liệu y hệt video.
+💬 Bạn lo nhất điều gì khi dùng AI viết bài cho website? ✍️

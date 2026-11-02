@@ -1,0 +1,12 @@
+Chỉ một dòng này khiến Google không đọc được BẤT KỲ trang sản phẩm nào. Website: 0/100 điểm.
+
+Trong 5 phút, bạn sẽ biết:
+✅ Crawler khám 31 lỗi kỹ thuật trong 15 giây
+✅ Sửa theo mức độ nghiêm trọng, người quyết việc cần quyết
+✅ Từ 0 lên 100 điểm, đo lại bằng Lighthouse
+
+📌 Prompt + file mẫu để làm theo: ở bình luận đầu tiên.
+🔔 Theo dõi trang để không lỡ Tập 19: Landing page chuẩn SEO, tải dưới 1 giây, lên mạng trong 15 phút
+
+— FoxFlow · 5 phút tự động hóa
+#5PhutTuDongHoa #FoxFlow #TuDongHoa #ClaudeCode #VSCode

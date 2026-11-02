@@ -1,0 +1,327 @@
+{
+  "so_san_pham": 28,
+  "so_trang": 3,
+  "het_hang": [
+    "Bút dạ quang Stabilo (bộ 6)",
+    "Máy in đa năng Brother DCP-L2540",
+    "Tủ hồ sơ sắt 4 ngăn"
+  ],
+  "sap_het": {
+    "Bìa còng 7cm Kingjim": "Chỉ còn 2",
+    "Ghế công thái học Ergo Pro": "Chỉ còn 3"
+  },
+  "khuyen_mai": {
+    "Bút bi Thiên Long TL-027 (hộp 20)": {
+      "gia_goc": 72000,
+      "gia_ban": 58000
+    },
+    "Bìa lá A4 (xấp 10)": {
+      "gia_goc": 25000,
+      "gia_ban": 20000
+    },
+    "Hộp mực Canon 337": {
+      "gia_goc": 820000,
+      "gia_ban": 656000
+    },
+    "Ghế xoay văn phòng lưới": {
+      "gia_goc": 1390000,
+      "gia_ban": 1251000
+    },
+    "Chuột không dây Logitech M331": {
+      "gia_goc": 320000,
+      "gia_ban": 288000
+    }
+  },
+  "gia_lien_he": [
+    "Máy chiếu Epson EB-X51"
+  ],
+  "gia_trung_binh_cac_sp_co_gia": 1214889,
+  "sp_danh_gia_cao_nhat": "Ghim bấm số 10 (hộp)",
+  "dang_ky_dai_ly": {
+    "thanh_cong": 4,
+    "that_bai": 1,
+    "ly_do_that_bai": "Đại lý Cảng Xanh Demo: SĐT '09123 4567' chỉ có 9 chữ số -> phải báo lại, KHÔNG tự sửa"
+  },
+  "san_pham": [
+    {
+      "ma": "AP-1001",
+      "ten": "Giấy A4 Double A 80gsm (thùng 5 ram)",
+      "gia_ban": 385000,
+      "gia_goc": null,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 4.1,
+      "luot": 80
+    },
+    {
+      "ma": "AP-1002",
+      "ten": "Giấy A4 IK Plus 70gsm (ram)",
+      "gia_ban": 72000,
+      "gia_goc": null,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 4.2,
+      "luot": 27
+    },
+    {
+      "ma": "AP-1003",
+      "ten": "Bút bi Thiên Long TL-027 (hộp 20)",
+      "gia_ban": 58000,
+      "gia_goc": 72000,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 3.7,
+      "luot": 277
+    },
+    {
+      "ma": "AP-1004",
+      "ten": "Bút ký Parker Jotter",
+      "gia_ban": 450000,
+      "gia_goc": null,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 4.1,
+      "luot": 32
+    },
+    {
+      "ma": "AP-1005",
+      "ten": "Bút dạ quang Stabilo (bộ 6)",
+      "gia_ban": 98000,
+      "gia_goc": null,
+      "tinh_trang": "Hết hàng",
+      "lop": "het",
+      "sao": 4.9,
+      "luot": 112
+    },
+    {
+      "ma": "AP-1006",
+      "ten": "Sổ da A5 có khóa",
+      "gia_ban": 135000,
+      "gia_goc": null,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 3.7,
+      "luot": 225
+    },
+    {
+      "ma": "AP-1007",
+      "ten": "Kẹp giấy 32mm (hộp 100)",
+      "gia_ban": 18000,
+      "gia_goc": null,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 4.2,
+      "luot": 126
+    },
+    {
+      "ma": "AP-1008",
+      "ten": "Bìa còng 7cm Kingjim",
+      "gia_ban": 45000,
+      "gia_goc": null,
+      "tinh_trang": "Chỉ còn 2",
+      "lop": "sap",
+      "sao": 3.7,
+      "luot": 220
+    },
+    {
+      "ma": "AP-1009",
+      "ten": "Bìa lá A4 (xấp 10)",
+      "gia_ban": 20000,
+      "gia_goc": 25000,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 3.7,
+      "luot": 292
+    },
+    {
+      "ma": "AP-1010",
+      "ten": "Ghim bấm số 10 (hộp)",
+      "gia_ban": 8000,
+      "gia_goc": null,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 4.9,
+      "luot": 325
+    },
+    {
+      "ma": "AP-1011",
+      "ten": "Máy bấm ghim Eagle 206",
+      "gia_ban": 65000,
+      "gia_goc": null,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 4.5,
+      "luot": 34
+    },
+    {
+      "ma": "AP-1012",
+      "ten": "Băng keo trong 5cm (cây 6 cuộn)",
+      "gia_ban": 78000,
+      "gia_goc": null,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 4.4,
+      "luot": 206
+    },
+    {
+      "ma": "AP-1013",
+      "ten": "Hộp mực HP 107A",
+      "gia_ban": 690000,
+      "gia_goc": null,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 3.7,
+      "luot": 116
+    },
+    {
+      "ma": "AP-1014",
+      "ten": "Hộp mực Canon 337",
+      "gia_ban": 656000,
+      "gia_goc": 820000,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 3.7,
+      "luot": 442
+    },
+    {
+      "ma": "AP-1015",
+      "ten": "Máy in laser HP 107w",
+      "gia_ban": 2850000,
+      "gia_goc": null,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 4.0,
+      "luot": 76
+    },
+    {
+      "ma": "AP-1016",
+      "ten": "Máy in đa năng Brother DCP-L2540",
+      "gia_ban": 5490000,
+      "gia_goc": null,
+      "tinh_trang": "Hết hàng",
+      "lop": "het",
+      "sao": 4.4,
+      "luot": 295
+    },
+    {
+      "ma": "AP-1017",
+      "ten": "Máy hủy tài liệu Bonsaii 3S16",
+      "gia_ban": 2150000,
+      "gia_goc": null,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 4.0,
+      "luot": 420
+    },
+    {
+      "ma": "AP-1018",
+      "ten": "Máy chiếu Epson EB-X51",
+      "gia_ban": null,
+      "gia_goc": null,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 4.6,
+      "luot": 55
+    },
+    {
+      "ma": "AP-1019",
+      "ten": "Bảng trắng 1.2x2.4m",
+      "gia_ban": 1250000,
+      "gia_goc": null,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 4.4,
+      "luot": 330
+    },
+    {
+      "ma": "AP-1020",
+      "ten": "Bút lông bảng Thiên Long (hộp 10)",
+      "gia_ban": 85000,
+      "gia_goc": null,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 3.9,
+      "luot": 52
+    },
+    {
+      "ma": "AP-1021",
+      "ten": "Ghế xoay văn phòng lưới",
+      "gia_ban": 1251000,
+      "gia_goc": 1390000,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 4.4,
+      "luot": 35
+    },
+    {
+      "ma": "AP-1022",
+      "ten": "Ghế công thái học Ergo Pro",
+      "gia_ban": 5400000,
+      "gia_goc": null,
+      "tinh_trang": "Chỉ còn 3",
+      "lop": "sap",
+      "sao": 3.7,
+      "luot": 108
+    },
+    {
+      "ma": "AP-1023",
+      "ten": "Bàn làm việc 1m2 chân sắt",
+      "gia_ban": 2750000,
+      "gia_goc": null,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 4.3,
+      "luot": 275
+    },
+    {
+      "ma": "AP-1024",
+      "ten": "Tủ hồ sơ sắt 4 ngăn",
+      "gia_ban": 3650000,
+      "gia_goc": null,
+      "tinh_trang": "Hết hàng",
+      "lop": "het",
+      "sao": 4.2,
+      "luot": 163
+    },
+    {
+      "ma": "AP-1025",
+      "ten": "Đèn bàn LED chống cận",
+      "gia_ban": 420000,
+      "gia_goc": null,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 4.3,
+      "luot": 475
+    },
+    {
+      "ma": "AP-1026",
+      "ten": "Bàn phím cơ không dây",
+      "gia_ban": 1150000,
+      "gia_goc": null,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 4.2,
+      "luot": 156
+    },
+    {
+      "ma": "AP-1027",
+      "ten": "Chuột không dây Logitech M331",
+      "gia_ban": 288000,
+      "gia_goc": 320000,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 3.9,
+      "luot": 95
+    },
+    {
+      "ma": "AP-1028",
+      "ten": "Màn hình 24 inch IPS",
+      "gia_ban": 3290000,
+      "gia_goc": null,
+      "tinh_trang": "Còn hàng",
+      "lop": "con",
+      "sao": 4.7,
+      "luot": 44
+    }
+  ]
+}

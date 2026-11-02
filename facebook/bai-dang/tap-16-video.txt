@@ -1,0 +1,12 @@
+AI viết xong, giám khảo chấm 76 điểm. Không ai nhắc, AI tự đọc lỗi và tự sửa lên 96.
+
+Trong 5 phút, bạn sẽ biết:
+✅ "Bộ sự thật thương hiệu": AI không bịa chính sách bảo hành
+✅ Giám khảo 17 tiêu chí SEO on-page
+✅ Vòng lặp tự sửa bằng hook
+
+📌 Prompt + file mẫu để làm theo: ở bình luận đầu tiên.
+🔔 Theo dõi trang để không lỡ Tập 17: Một lệnh đưa bài lên WordPress + nội dung cho 4 kênh
+
+— FoxFlow · 5 phút tự động hóa
+#5PhutTuDongHoa #FoxFlow #TuDongHoa #ClaudeCode #VSCode

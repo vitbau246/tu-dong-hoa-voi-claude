@@ -1,0 +1,12 @@
+Trình duyệt thấy 100 câu. Máy đọc web thấy 0. Rồi mình lấy đủ 100 câu trong 7,6 giây.
+
+Trong 5 phút, bạn sẽ biết:
+✅ Cuộn vô hạn: định nghĩa rõ thế nào là "hết"
+✅ Đăng nhập an toàn: người gõ mật khẩu, AI làm tiếp
+✅ Tìm API ẩn: nhanh hơn lái trình duyệt hàng chục lần
+
+📌 Prompt + file mẫu để làm theo: ở bình luận đầu tiên.
+🔔 Theo dõi trang để không lỡ Tập 14: Máy theo dõi giá đối thủ 24/7, AI chỉ thức dậy khi có biến
+
+— FoxFlow · 5 phút tự động hóa
+#5PhutTuDongHoa #FoxFlow #TuDongHoa #ClaudeCode #VSCode

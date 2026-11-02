@@ -1,0 +1,3 @@
+📌 Prompt + file mẫu Tập 2: https://github.com/vitbau246/tu-dong-hoa-voi-claude/tree/main/tap-02-gop-excel
+Chạy python chuan-bi.py là có dữ liệu y hệt video.
+💬 Bạn từng phải gộp bao nhiêu file Excel một lúc? Lâu nhất mất bao lâu? 👇

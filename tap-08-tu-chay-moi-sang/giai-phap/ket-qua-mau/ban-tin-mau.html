@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bản tin sáng 30/10/2026</title>
+<style>
+  :root {
+    --bg: #f6f7f9; --card: #ffffff; --text: #1f2328; --muted: #5c6670; --line: #e3e6ea;
+    --accent: #1d5fd1; --red: #c62828; --red-bg: #fdecea; --orange: #c25e00; --orange-bg: #fff3e0;
+    --green-bg: #e8f5e9; --green: #1b5e20;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #15181c; --card: #1e2227; --text: #e6e8eb; --muted: #9aa4ae; --line: #2e343b;
+      --accent: #7aa7ff; --red: #ff8a80; --red-bg: #3a1f1f; --orange: #ffb74d; --orange-bg: #3a2c18;
+      --green-bg: #1d3320; --green: #a5d6a7;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+    font: 16px/1.55 -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+  main { max-width: 720px; margin: 0 auto; padding: 20px 16px 40px; }
+  header h1 { font-size: 1.5rem; margin: 0 0 4px; }
+  header p { margin: 0; color: var(--muted); font-size: .9rem; }
+  section { background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+    padding: 16px; margin-top: 18px; }
+  h2 { font-size: 1.1rem; margin: 0 0 12px; }
+  .first { background: var(--green-bg); border-color: transparent; }
+  .first h2 { color: var(--green); margin-bottom: 6px; }
+  .first p { margin: 0; }
+  ol.news { margin: 0; padding: 0; list-style: none; counter-reset: n; }
+  ol.news li { counter-increment: n; padding: 12px 0; border-top: 1px solid var(--line); }
+  ol.news li:first-child { border-top: 0; padding-top: 0; }
+  ol.news h3 { font-size: 1rem; margin: 0 0 4px; }
+  ol.news h3::before { content: counter(n) ". "; color: var(--accent); }
+  ol.news p { margin: 0 0 6px; }
+  .meta { font-size: .85rem; color: var(--muted); }
+  a { color: var(--accent); word-break: break-word; }
+  ul.tasks { list-style: none; margin: 0; padding: 0; }
+  ul.tasks li { border-left: 4px solid; border-radius: 8px; padding: 10px 12px; margin-bottom: 10px; }
+  ul.tasks li:last-child { margin-bottom: 0; }
+  .overdue { border-color: var(--red); background: var(--red-bg); }
+  .soon { border-color: var(--orange); background: var(--orange-bg); }
+  .task-name { font-weight: 600; }
+  .badge { display: inline-block; font-size: .78rem; font-weight: 700; padding: 1px 8px; border-radius: 999px;
+    margin-bottom: 4px; color: #fff; }
+  .overdue .badge { background: var(--red); }
+  .soon .badge { background: var(--orange); }
+  @media (prefers-color-scheme: dark) { .badge { color: #15181c; } }
+  .summary { font-size: .9rem; color: var(--muted); margin: -4px 0 12px; }
+  footer { margin-top: 18px; font-size: .8rem; color: var(--muted); text-align: center; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Bản tin sáng</h1>
+    <p>Thứ Sáu, 30/10/2026 · Nguồn tin: VnExpress RSS (Kinh doanh, Khoa học – Công nghệ)</p>
+  </header>
+
+  <section class="first">
+    <h2>Việc nên làm đầu tiên hôm nay</h2>
+    <p><strong>Hoàn tất và gửi báo cáo chi phí tháng cho Phòng Tài chính</strong> — đã quá hạn 2 ngày (lâu nhất trong danh sách) và đang làm dở nên có thể xong nhanh, trước khi vào buổi họp chốt kế hoạch CNTT 2027 với BGĐ hôm nay.</p>
+  </section>
+
+  <section>
+    <h2>Việc cần chú ý</h2>
+    <p class="summary">2 việc quá hạn · 4 việc đến hạn trong 3 ngày tới (30/10 – 02/11)</p>
+    <ul class="tasks">
+      <li class="overdue">
+        <span class="badge">Quá hạn 2 ngày · 28/10</span>
+        <div class="task-name">Gửi báo cáo chi phí tháng cho Phòng Tài chính</div>
+        <div class="meta">Đang làm · Phối hợp: P.TC</div>
+      </li>
+      <li class="overdue">
+        <span class="badge">Quá hạn 1 ngày · 29/10</span>
+        <div class="task-name">Ký duyệt tờ trình mua 15 màn hình</div>
+        <div class="meta">Chờ duyệt · Phối hợp: anh Hùng</div>
+      </li>
+      <li class="soon">
+        <span class="badge">Hôm nay · 30/10</span>
+        <div class="task-name">Họp chốt kế hoạch CNTT 2027</div>
+        <div class="meta">Chưa làm · Phối hợp: BGĐ</div>
+      </li>
+      <li class="soon">
+        <span class="badge">Ngày mai · 31/10</span>
+        <div class="task-name">Cập nhật hợp đồng bảo trì lên phần mềm QLVB</div>
+        <div class="meta">Đang làm · Phối hợp: IT</div>
+      </li>
+      <li class="soon">
+        <span class="badge">Còn 2 ngày · 01/11</span>
+        <div class="task-name">Nhắc 2 phòng gửi nhu cầu kế hoạch 2027</div>
+        <div class="meta">Chưa làm · Phối hợp: P.KT, P.KD</div>
+      </li>
+      <li class="soon">
+        <span class="badge">Còn 3 ngày · 02/11</span>
+        <div class="task-name">Chuẩn bị slide đào tạo QLVB đợt 3</div>
+        <div class="meta">Đang làm · Phối hợp: P.HCNS</div>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>5 tin đáng chú ý</h2>
+    <ol class="news">
+      <li>
+        <h3>Thẻ tín dụng bị trừ gần 100 triệu sau khi đặt hàng qua fanpage giả mạo</h3>
+        <p>Một phụ nữ bị trừ hơn 92 triệu đồng từ thẻ tín dụng sau khi đặt hàng qua một fanpage giả mạo siêu thị. Lời nhắc nên kiểm tra kỹ trang bán hàng trước khi nhập thông tin thẻ.</p>
+        <div class="meta">Kinh doanh · 30/10 06:20 · <a href="https://vnexpress.net/the-tin-dung-bi-tru-gan-100-trieu-sau-khi-dat-hang-qua-fanpage-gia-mao-5137415.html">Đọc bài gốc</a></div>
+      </li>
+      <li>
+        <h3>Giá xăng, dầu cùng tăng</h3>
+        <p>Giá xăng và dầu tăng từ 15h chiều 29/10. Mức tăng khoảng 220 đến 690 đồng mỗi đơn vị, ảnh hưởng trực tiếp đến chi phí đi lại hằng ngày.</p>
+        <div class="meta">Kinh doanh · 29/10 14:42 · <a href="https://vnexpress.net/gia-xang-dau-cung-tang-5138351.html">Đọc bài gốc</a></div>
+      </li>
+      <li>
+        <h3>'Vỡ mộng' vì vội ứng dụng AI</h3>
+        <p>Nhiều doanh nghiệp vội đưa vào dùng các công cụ AI chưa ổn định. Hệ quả là tốn thời gian nhân viên, lộ thông tin và chi phí tăng thêm.</p>
+        <div class="meta">Khoa học – Công nghệ · 29/10 · <a href="https://vnexpress.net/vo-mong-vi-voi-ung-dung-ai-5137139.html">Đọc bài gốc</a></div>
+      </li>
+      <li>
+        <h3>Bất ngờ bị khóa tài khoản ngân hàng do giao dịch tiền số</h3>
+        <p>Một tài khoản ngân hàng bị phong tỏa sau giao dịch tiền số vì nghi ngờ liên quan rửa tiền. Khoản lương của chủ tài khoản vì thế bị kẹt lại.</p>
+        <div class="meta">Kinh doanh · 29/10 09:00 · <a href="https://vnexpress.net/bat-ngo-bi-khoa-tai-khoan-ngan-hang-do-giao-dich-tien-so-5138010.html">Đọc bài gốc</a></div>
+      </li>
+      <li>
+        <h3>Vụ hack tỷ USD của Binance có thể do laptop kỹ sư bị xâm nhập</h3>
+        <p>Binance xác nhận vụ tấn công liên quan khoảng 6,3 tỷ USD. Nguồn gốc có thể là chiếc laptop của một kỹ sư DevOps bị xâm nhập — bài học về bảo mật máy tính làm việc.</p>
+        <div class="meta">Khoa học – Công nghệ · 30/10 10:54 · <a href="https://vnexpress.net/vu-hack-ty-usd-cua-binance-co-the-do-laptop-ky-su-bi-xam-nhap-5138683.html">Đọc bài gốc</a></div>
+      </li>
+    </ol>
+  </section>
+
+  <footer>Tin lấy từ RSS VnExpress ngày 30/10/2026 · Việc lấy từ cong-viec.csv</footer>
+</main>
+</body>
+</html>

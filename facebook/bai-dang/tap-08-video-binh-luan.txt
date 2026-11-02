@@ -1,0 +1,3 @@
+📌 Prompt + file mẫu Tập 8: https://github.com/vitbau246/tu-dong-hoa-voi-claude/tree/main/tap-08-tu-chay-moi-sang
+Chạy python chuan-bi.py là có dữ liệu y hệt video.
+💬 Mỗi sáng bạn muốn có sẵn thứ gì trên máy khi vừa mở lên? ☕

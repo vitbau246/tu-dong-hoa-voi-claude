@@ -1,0 +1,4 @@
+Số điện thoại thiếu một chữ số. AI không tự "sửa" cho form chấp nhận. Nó dừng lại và báo.
+
+🎬 Bản đầy đủ 5 phút: Tập 7 trên trang: Cho Claude tự lái trình duyệt: thu thập dữ liệu + điền form (MCP)
+#5PhutTuDongHoa #FoxFlow #TuDongHoa #ClaudeCode #VSCode

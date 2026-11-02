@@ -1,0 +1,52 @@
+{
+  "tong_so_file": 318,
+  "tong_dung_luong_MB": 2.6,
+  "theo_duoi_file": {
+    ".csv": 6,
+    ".docx": 42,
+    ".exe": 9,
+    ".jpg": 27,
+    ".m4a": 6,
+    ".mp4": 8,
+    ".msi": 4,
+    ".pdf": 62,
+    ".png": 67,
+    ".pptx": 16,
+    ".txt": 10,
+    ".xlsx": 46,
+    ".zip": 15
+  },
+  "theo_nam_sua_doi": {
+    "2024": 101,
+    "2025": 119,
+    "2026": 98
+  },
+  "so_ban_sao_thua_trung_noi_dung": 27,
+  "so_nhom_trung": 27,
+  "vi_du_trung": [
+    {
+      "goc": "Giấy mời họp 9057.docx",
+      "ban_sao": "Giấy mời họp 9057 (1).docx"
+    },
+    {
+      "goc": "To trinh 8027.pdf",
+      "ban_sao": "To trinh 8027 - Copy.pdf"
+    },
+    {
+      "goc": "scan_9899.pdf",
+      "ban_sao": "tai-ve-52791.pdf"
+    },
+    {
+      "goc": "Quyet dinh 7604.docx",
+      "ban_sao": "Quyet dinh 7604 (1).docx"
+    },
+    {
+      "goc": "anh-hop-to-1636.png",
+      "ban_sao": "anh-hop-to-1636 - Copy.png"
+    },
+    {
+      "goc": "Slide gioi thieu 1684.pptx",
+      "ban_sao": "tai-ve-47818.pptx"
+    }
+  ]
+}

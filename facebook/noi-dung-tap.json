@@ -1,0 +1,262 @@
+[
+  {
+    "tap": 1,
+    "ten": "Dọn 318 file lộn xộn, không mất một file (và một sự cố thật)",
+    "cau_hoi": "Thư mục Downloads của bạn đang có bao nhiêu file? Mình cá là hơn 300 😅 Comment con số của bạn nhé.",
+    "mo_dau": "318 file lộn xộn → 7 thư mục, 27 file trùng bị tìm ra. Giữa chừng có sự cố thật, và file hoàn tác đã cứu cả thư mục.",
+    "loi_ich": [
+      "Cài Claude vào VS Code, bắt AI lập kế hoạch trước (chế độ Plan)",
+      "AI hỏi lại chỗ mơ hồ ngay trong prompt của bạn",
+      "Vì sao PHẢI có file hoàn tác: nút Rewind không cứu được trong trường hợp này"
+    ],
+    "reel_1": "Claude vừa bắt được một lỗi nằm ngay trong prompt của mình, trước khi động vào bất kỳ file nào.",
+    "reel_2": "Script dọn file dừng ở 242/318 vì phần mềm diệt virus. Đây là cách file hoàn tác cứu cả thư mục."
+  },
+  {
+    "tap": 2,
+    "ten": "Gộp 12 file Excel, phát hiện báo cáo SAI 2,5 tỷ",
+    "cau_hoi": "Bạn từng phải gộp bao nhiêu file Excel một lúc? Lâu nhất mất bao lâu? 👇",
+    "mo_dau": "Cộng SUM thẳng ra 13,18 tỷ. Số đúng: 10,63 tỷ. Lệch 2,5 tỷ, mà con số sai trông vẫn rất \"hợp lý\".",
+    "loi_ich": [
+      "Bước KHẢO SÁT: để AI liệt kê mọi lỗi trước khi gộp",
+      "4 cách viết chữ \"Hà Nội\" và dòng TỔNG CỘNG bị cộng 2 lần",
+      "AI viết script một lần, tháng sau chạy lại trong 2 giây"
+    ],
+    "reel_1": "Chi nhánh Hà Nội được viết 4 kiểu trong cùng một báo cáo. Có một kiểu mắt thường không thể thấy.",
+    "reel_2": "Hai lỗi ngược chiều che cho nhau: cách một báo cáo sai 2,5 tỷ mà không ai phát hiện."
+  },
+  {
+    "tap": 3,
+    "ten": "30 hóa đơn PDF vào Excel trong 2 phút, bắt 3 hóa đơn có vấn đề",
+    "cau_hoi": "Kế toán ơi, mỗi tháng bạn nhập tay bao nhiêu hóa đơn? 🧾",
+    "mo_dau": "30 hóa đơn, 3 cái có vấn đề. Cộng tổng chỉ lệch đúng 10.000 đồng, nhỏ đến mức ai cũng bỏ qua.",
+    "loi_ich": [
+      "Trích xuất 3 kiểu bố cục hóa đơn bằng script (không gõ lại)",
+      "4 quy tắc kiểm tra chéo bắt lỗi cộng sai, hóa đơn trùng",
+      "Soát ngẫu nhiên: 30 giây đổi lấy sự yên tâm"
+    ],
+    "reel_1": "Một hóa đơn thừa 100 nghìn, một hóa đơn thiếu 90 nghìn. Cộng lại gần như khớp. Đây là bẫy.",
+    "reel_2": "Trùng SỐ hóa đơn chưa chắc là trùng hóa đơn. Một câu trong prompt tránh được 4 cảnh báo sai."
+  },
+  {
+    "tap": 4,
+    "ten": "40 thư mời cá nhân hóa + 37 email nháp, không gõ một chữ",
+    "cau_hoi": "Lần gần nhất bạn phải làm thư mời hàng loạt, bạn làm thủ công hay dùng Mail Merge? 📨",
+    "mo_dau": "40 thư mời, tên ai người nấy. 37 email nháp kèm sẵn PDF. Và lúc AI DỪNG LẠI HỎI thay vì tự đoán.",
+    "loi_ich": [
+      "Soát danh sách: dòng trùng, thiếu email, email sai định dạng",
+      "Trộn thư giữ nguyên định dạng Word, xuất PDF hàng loạt",
+      "Nguyên tắc vàng: AI chuẩn bị, NGƯỜI bấm gửi"
+    ],
+    "reel_1": "\"Trần Minh Anh\" là Ông hay Bà? AI không đoán, nó hỏi. Đó mới là AI đáng tin.",
+    "reel_2": "Việc gì không thể rút lại, như gửi email hay chuyển tiền, thì AI không được bấm nút cuối."
+  },
+  {
+    "tap": 5,
+    "ten": "Báo cáo tuần chỉ bằng MỘT lệnh (CLAUDE.md + Skills)",
+    "cau_hoi": "Chiều thứ Sáu bạn mất bao lâu để viết báo cáo tuần? ⏰",
+    "mo_dau": "45 phút mỗi chiều thứ Sáu → gõ đúng một lệnh: /bao-cao-tuan.",
+    "loi_ich": [
+      "CLAUDE.md: dạy AI nhớ bạn là ai, sếp là ai, viết tắt nghĩa là gì",
+      "Skills: đóng gói quy trình thành một lệnh riêng",
+      "Không cần nhớ lệnh: nói \"làm báo cáo tuần\" là AI tự hiểu"
+    ],
+    "reel_1": "AI viết \"a Hùng\" trong báo cáo gửi sếp. Lỗi không phải ở AI. Nó KHÔNG BIẾT a Hùng là ai.",
+    "reel_2": "Làm một lần cho tốt, rồi nói: \"biến quy trình này thành skill\". Từ nay chỉ còn một lệnh."
+  },
+  {
+    "tap": 6,
+    "ten": "Gắn phanh an toàn cho AI: Hooks",
+    "cau_hoi": "Bạn có dám để AI làm việc trên dữ liệu thật của công ty không? Vì sao? 🤔",
+    "mo_dau": "AI vừa định xóa file trong thư mục sổ cái của công ty. Và nó bị chặn.",
+    "loi_ich": [
+      "🛑 Phanh: luật cứng AI không thể vượt qua",
+      "📹 Camera hành trình: ghi lại mọi việc AI đã làm",
+      "🔔 Chuông báo: giao việc rồi đi làm việc khác"
+    ],
+    "reel_1": "Chế độ tự động, không ai bấm gì, nhưng lệnh xóa vẫn bị chặn. Đây là cách.",
+    "reel_2": "Nói thật: hook không phải tường thành tuyệt đối. Đây là 4 lớp bảo vệ nên có."
+  },
+  {
+    "tap": 7,
+    "ten": "Cho Claude tự lái trình duyệt: thu thập dữ liệu + điền form (MCP)",
+    "cau_hoi": "Việc nhập dữ liệu từ Excel vào form web nào khiến bạn ngán nhất? 😩",
+    "mo_dau": "Không chạm chuột. Trình duyệt tự đọc 3 trang sản phẩm và tự điền 5 form đăng ký.",
+    "loi_ich": [
+      "MCP là gì: \"cổng USB\" cho AI",
+      "Thu thập nhiều trang, xử lý đúng giá khuyến mãi và giá \"Liên hệ\"",
+      "Điền form hàng loạt có ảnh chụp làm bằng chứng"
+    ],
+    "reel_1": "Trình duyệt tự gõ, tự chọn, tự bấm gửi. Mình chỉ ngồi xem.",
+    "reel_2": "Số điện thoại thiếu một chữ số. AI không tự \"sửa\" cho form chấp nhận. Nó dừng lại và báo."
+  },
+  {
+    "tap": 8,
+    "ten": "Máy tự làm bản tin lúc 7:30 sáng, khi bạn còn đang ngủ",
+    "cau_hoi": "Mỗi sáng bạn muốn có sẵn thứ gì trên máy khi vừa mở lên? ☕",
+    "mo_dau": "7:30 sáng. Mở máy lên, bản tin đã nằm sẵn: 5 tin đáng đọc, việc quá hạn tô đỏ.",
+    "loi_ich": [
+      "claude -p: chạy AI không cần mở cửa sổ",
+      "Chỉ cấp đúng quyền cần thiết (một tên miền duy nhất)",
+      "Hẹn giờ bằng Task Scheduler, tắt máy vẫn chạy bù"
+    ],
+    "reel_1": "Claude không cần cửa sổ chat. Một dòng lệnh trong terminal là đủ.",
+    "reel_2": "3 cách hẹn giờ cho AI, và khi nào nên dùng cách nào."
+  },
+  {
+    "tap": 9,
+    "ten": "Báo giá \"rẻ nhất\" hóa ra ĐẮT NHẤT: đội 3 trợ lý AI",
+    "cau_hoi": "Bạn từng bị \"chữ nhỏ\" trong hợp đồng hay báo giá lừa chưa? 🔍",
+    "mo_dau": "Báo giá ghi to \"189 triệu trọn gói 3 năm\". Đọc hết chữ nhỏ: 392 triệu. Đắt nhất trong 3 phương án.",
+    "loi_ich": [
+      "Subagents: mỗi trợ lý một \"phòng làm việc\" riêng",
+      "3 báo giá được phân tích song song",
+      "Người thẩm định độc lập: quy trình bốn mắt cho AI"
+    ],
+    "reel_1": "Chữ nhỏ cuối trang trị giá 200 triệu đồng. Đây là cách AI đọc ra.",
+    "reel_2": "Người làm và người kiểm tra phải là hai người khác nhau, kể cả khi cả hai là AI."
+  },
+  {
+    "tap": 10,
+    "ten": "Đóng gói \"trợ lý văn phòng\" cho cả team: 2 lệnh là xong",
+    "cau_hoi": "Phòng bạn có ai đang \"giữ bí kíp\" làm việc nhanh mà chưa chia sẻ không? 😄",
+    "mo_dau": "Đồng nghiệp gõ 2 lệnh, và máy họ có đủ mọi công cụ mình xây trong 9 tập.",
+    "loi_ich": [
+      "Plugin: gom skill, agent, hook thành một gói",
+      "Marketplace nội bộ: cả phòng cài và cập nhật",
+      "Lộ trình 30 ngày để tự động hóa công việc của bạn"
+    ],
+    "reel_1": "Hai lệnh. Cả phòng có chung một bộ trợ lý AI.",
+    "reel_2": "10 tập tự động hóa trong 25 giây."
+  },
+  {
+    "tap": 11,
+    "ten": "Nghiên cứu bằng AI mà không sợ bịa số: mọi con số được kiểm chứng",
+    "cau_hoi": "Bạn đã bao giờ bắt gặp AI \"bịa\" số liệu chưa? Kể mình nghe 👇",
+    "mo_dau": "Câu trích dẫn này giống nguồn 99,5%. Và nó sai đúng một con số.",
+    "loi_ich": [
+      "Nghiên cứu có trích dẫn NGUYÊN VĂN cho từng con số",
+      "Bí mật: AI không đọc nguyên trang web mà đọc bản tóm tắt",
+      "Script kiểm chứng tự động: thà thiếu còn hơn sai"
+    ],
+    "reel_1": "Giống 99,5% vẫn sai. Đây là cách máy bắt được.",
+    "reel_2": "Khi Claude đọc web, nó không đọc nguyên trang. Bạn cần biết điều này."
+  },
+  {
+    "tap": 12,
+    "ten": "Đội 5 AI nghiên cứu chiến lược trong 15 phút",
+    "cau_hoi": "Câu hỏi chiến lược nào ở công ty bạn mà chưa ai có thời gian nghiên cứu cho ra lẽ? 🎯",
+    "mo_dau": "4 nhà nghiên cứu chạy song song + 1 kiểm chứng viên. Báo cáo chiến lược có ma trận độ tin cậy.",
+    "loi_ich": [
+      "Chia đề tài theo góc, không chồng lấn",
+      "Mỗi AI một file riêng: tránh lỗi kinh điển khi làm nhóm",
+      "Báo cáo tốt nói rõ điều CHƯA biết"
+    ],
+    "reel_1": "Cho nhiều AI làm cùng lúc mà không ghi đè lên nhau: một nguyên tắc duy nhất.",
+    "reel_2": "AI giỏi nhất khi nói rõ điều nó KHÔNG biết."
+  },
+  {
+    "tap": 13,
+    "ten": "Duyệt web nâng cao: trang JavaScript, đăng nhập, cuộn vô hạn và \"cửa sau\" API",
+    "cau_hoi": "Bạn đã bao giờ mở tab Network trong DevTools chưa? 🕵️",
+    "mo_dau": "Trình duyệt thấy 100 câu. Máy đọc web thấy 0. Rồi mình lấy đủ 100 câu trong 7,6 giây.",
+    "loi_ich": [
+      "Cuộn vô hạn: định nghĩa rõ thế nào là \"hết\"",
+      "Đăng nhập an toàn: người gõ mật khẩu, AI làm tiếp",
+      "Tìm API ẩn: nhanh hơn lái trình duyệt hàng chục lần"
+    ],
+    "reel_1": "Trình duyệt thấy 100, máy thấy 0. Vì sao?",
+    "reel_2": "Tab Network: vũ khí bí mật của dân thu thập dữ liệu."
+  },
+  {
+    "tap": 14,
+    "ten": "Máy theo dõi giá đối thủ 24/7, AI chỉ thức dậy khi có biến",
+    "cau_hoi": "Bạn đang theo dõi đối thủ bằng cách nào? Vào web xem tay mỗi ngày? 👀",
+    "mo_dau": "8 giờ sáng, máy báo: đêm qua đối thủ giảm giá 3 mặt hàng chủ lực, giờ họ rẻ hơn mình 12–15%.",
+    "loi_ich": [
+      "Script chụp và so sánh: miễn phí, chính xác tuyệt đối",
+      "AI chỉ chạy khi có thay đổi: tiết kiệm hạn mức gấp 10 lần",
+      "AI đọc ra CHIẾN THUẬT của đối thủ, không chỉ con số"
+    ],
+    "reel_1": "Đối thủ tung combo và tăng giá hàng lẻ. AI đọc ra họ đang kéo khách sang mua số lượng lớn.",
+    "reel_2": "Nguyên tắc \"AI ở đúng chỗ\" cho mọi hệ thống tự động."
+  },
+  {
+    "tap": 15,
+    "ten": "Nghiên cứu từ khóa SEO từ Search Console: 3 mỏ vàng bị bỏ quên",
+    "cau_hoi": "Website của bạn có từ khóa nào đang \"kẹt\" ở trang 2 Google không? 📈",
+    "mo_dau": "Đứng top 3 Google mà gần như không ai bấm vào. Sửa một dòng tiêu đề: thêm khoảng 900 click.",
+    "loi_ich": [
+      "Từ khóa sát trang 1: đẩy nhẹ là lên",
+      "Top 3 mà CTR thấp: chỉ cần viết lại tiêu đề",
+      "Hai trang của chính mình tự đánh nhau"
+    ],
+    "reel_1": "Hai trang của chính bạn đang tranh nhau một từ khóa, và cả hai cùng kẹt ở trang 2.",
+    "reel_2": "AI không biết lượng tìm kiếm. Đừng tin con số \"volume\" nó tự đưa ra."
+  },
+  {
+    "tap": 16,
+    "ten": "AI viết bài chuẩn SEO, máy tự chấm điểm, tự sửa đến khi đạt",
+    "cau_hoi": "Bạn lo nhất điều gì khi dùng AI viết bài cho website? ✍️",
+    "mo_dau": "AI viết xong, giám khảo chấm 76 điểm. Không ai nhắc, AI tự đọc lỗi và tự sửa lên 96.",
+    "loi_ich": [
+      "\"Bộ sự thật thương hiệu\": AI không bịa chính sách bảo hành",
+      "Giám khảo 17 tiêu chí SEO on-page",
+      "Vòng lặp tự sửa bằng hook"
+    ],
+    "reel_1": "Bị chấm trượt, AI tự sửa bài mà không cần ai nhắc.",
+    "reel_2": "Đừng để AI viết \"bảo hành trọn đời\" khi công ty chỉ bảo hành 24 tháng."
+  },
+  {
+    "tap": 17,
+    "ten": "Một lệnh đưa bài lên WordPress + nội dung cho 4 kênh",
+    "cau_hoi": "Sau khi viết xong một bài blog, bạn mất thêm bao lâu để đăng và chia sẻ lên các kênh? ⏱️",
+    "mo_dau": "Một lệnh: bài lên WordPress với ảnh bìa, chuyên mục, mô tả SEO. Kèm bài cho Facebook, LinkedIn, email, Zalo.",
+    "loi_ich": [
+      "Mật khẩu ứng dụng: không bao giờ đưa mật khẩu thật cho AI",
+      "Luôn là BẢN NHÁP: người bấm Xuất bản",
+      "UTM: biết chính xác kênh nào mang khách về"
+    ],
+    "reel_1": "Đừng bao giờ đưa mật khẩu WordPress cho AI. Dùng cái này thay thế.",
+    "reel_2": "Một bài viết, bốn kênh, mỗi kênh một góc nhìn, không cắt dán."
+  },
+  {
+    "tap": 18,
+    "ten": "Một dòng robots.txt giết chết SEO cả website: audit và tự sửa",
+    "cau_hoi": "Bạn đã bao giờ mở file robots.txt của website mình chưa? Thử gõ tenmien/robots.txt xem 👀",
+    "mo_dau": "Chỉ một dòng này khiến Google không đọc được BẤT KỲ trang sản phẩm nào. Website: 0/100 điểm.",
+    "loi_ich": [
+      "Crawler khám 31 lỗi kỹ thuật trong 15 giây",
+      "Sửa theo mức độ nghiêm trọng, người quyết việc cần quyết",
+      "Từ 0 lên 100 điểm, đo lại bằng Lighthouse"
+    ],
+    "reel_1": "Một dòng robots.txt chặn toàn bộ trang sản phẩm suốt 6 tháng.",
+    "reel_2": "\"Trang mồ côi\" là gì, và vì sao Google gần như không tìm thấy nó."
+  },
+  {
+    "tap": 19,
+    "ten": "Landing page chuẩn SEO, tải dưới 1 giây, lên mạng trong 15 phút",
+    "cau_hoi": "Lần gần nhất bạn cần một landing page cho chiến dịch, bạn mất bao lâu? 🚀",
+    "mo_dau": "Từ bản brief tới đường link chia sẻ: 15 phút. Chuẩn SEO, nhẹ, đạt chuẩn truy cập.",
+    "loi_ich": [
+      "Ảnh WebP nhiều kích cỡ: nhẹ hơn khoảng 90%",
+      "Dữ liệu có cấu trúc THẬT, không bịa đánh giá sao",
+      "Kéo thả lên mạng bằng Netlify Drop"
+    ],
+    "reel_1": "AI dừng lại hỏi trước khi đưa một lời hứa lên landing page. Đúng vậy, nó phải hỏi.",
+    "reel_2": "Đừng bịa đánh giá 5 sao trong dữ liệu có cấu trúc. Đây là lý do."
+  },
+  {
+    "tap": 20,
+    "ten": "Cỗ máy nội dung tự chạy mỗi tuần: bạn chỉ việc bấm duyệt",
+    "cau_hoi": "Nếu có một \"cỗ máy\" lo phần lặp lại, bạn sẽ dành thời gian đó cho việc gì? 💡",
+    "mo_dau": "Thứ Hai, 7 giờ sáng. Bài viết tuần này đã chờ sẵn, chỉ thiếu cái bấm duyệt của bạn.",
+    "loi_ich": [
+      "Nối 9 công cụ thành một quy trình",
+      "Plugin cho cả phòng Marketing",
+      "Cổng duyệt: vì sao AI không được tự xuất bản"
+    ],
+    "reel_1": "Thứ Hai 7 giờ sáng, bài đã chờ sẵn. Mình chỉ còn 3 ô vuông cần tick.",
+    "reel_2": "3 lý do không bao giờ để AI tự xuất bản."
+  }
+]

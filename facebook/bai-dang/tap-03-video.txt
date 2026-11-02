@@ -1,0 +1,12 @@
+30 hóa đơn, 3 cái có vấn đề. Cộng tổng chỉ lệch đúng 10.000 đồng, nhỏ đến mức ai cũng bỏ qua.
+
+Trong 5 phút, bạn sẽ biết:
+✅ Trích xuất 3 kiểu bố cục hóa đơn bằng script (không gõ lại)
+✅ 4 quy tắc kiểm tra chéo bắt lỗi cộng sai, hóa đơn trùng
+✅ Soát ngẫu nhiên: 30 giây đổi lấy sự yên tâm
+
+📌 Prompt + file mẫu để làm theo: ở bình luận đầu tiên.
+🔔 Theo dõi trang để không lỡ Tập 4: 40 thư mời cá nhân hóa + 37 email nháp, không gõ một chữ
+
+— FoxFlow · 5 phút tự động hóa
+#5PhutTuDongHoa #FoxFlow #TuDongHoa #ClaudeCode #VSCode

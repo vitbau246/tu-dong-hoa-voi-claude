@@ -1,0 +1,3 @@
+📌 Prompt + file mẫu Tập 18: https://github.com/vitbau246/tu-dong-hoa-voi-claude/tree/main/tap-18-audit-seo-ky-thuat
+Chạy python chuan-bi.py là có dữ liệu y hệt video.
+💬 Bạn đã bao giờ mở file robots.txt của website mình chưa? Thử gõ tenmien/robots.txt xem 👀

@@ -1,0 +1,12 @@
+45 phút mỗi chiều thứ Sáu → gõ đúng một lệnh: /bao-cao-tuan.
+
+Trong 5 phút, bạn sẽ biết:
+✅ CLAUDE.md: dạy AI nhớ bạn là ai, sếp là ai, viết tắt nghĩa là gì
+✅ Skills: đóng gói quy trình thành một lệnh riêng
+✅ Không cần nhớ lệnh: nói "làm báo cáo tuần" là AI tự hiểu
+
+📌 Prompt + file mẫu để làm theo: ở bình luận đầu tiên.
+🔔 Theo dõi trang để không lỡ Tập 6: Gắn phanh an toàn cho AI: Hooks
+
+— FoxFlow · 5 phút tự động hóa
+#5PhutTuDongHoa #FoxFlow #TuDongHoa #ClaudeCode #VSCode

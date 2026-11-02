@@ -1,0 +1,26 @@
+{
+  "so_dong_trong_excel": 41,
+  "so_khach_duy_nhat": 40,
+  "dong_trung": {
+    "dong_excel": [
+      13,
+      29
+    ],
+    "ho_ten": "Hoàng Văn Trung"
+  },
+  "thieu_email": [
+    "Vũ Minh Khánh",
+    "Lê Văn Tuấn"
+  ],
+  "email_sai_dinh_dang": {
+    "ho_ten": "Ngô Đức Nam",
+    "email": "nam.nd32.at.ankhang.example"
+  },
+  "thieu_danh_xung": "Trần Minh Anh (tên trung tính - KHÔNG được tự đoán Ông/Bà)",
+  "so_thu_moi_can_tao": 40,
+  "so_email_nhap_tao_duoc": 37,
+  "phien": {
+    "Sáng": "08:30 - 11:30",
+    "Chiều": "13:30 - 16:30"
+  }
+}

@@ -1,0 +1,3 @@
+📌 Prompt + file mẫu Tập 15: https://github.com/vitbau246/tu-dong-hoa-voi-claude/tree/main/tap-15-tu-khoa-seo
+Chạy python chuan-bi.py là có dữ liệu y hệt video.
+💬 Website của bạn có từ khóa nào đang "kẹt" ở trang 2 Google không? 📈

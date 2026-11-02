@@ -1,0 +1,65 @@
+{
+  "so_giao_dich_sach": 1398,
+  "tong_doanh_thu_2025": 10625890000,
+  "tong_doanh_thu_2025_doc": "10.63 tỷ đồng",
+  "doanh_thu_theo_thang": {
+    "T1": 922730000,
+    "T2": 495480000,
+    "T3": 771905000,
+    "T4": 893155000,
+    "T5": 706710000,
+    "T6": 839465000,
+    "T7": 770555000,
+    "T8": 800090000,
+    "T9": 947155000,
+    "T10": 942440000,
+    "T11": 1111365000,
+    "T12": 1424840000
+  },
+  "thang_cao_nhat": "T12",
+  "doanh_thu_theo_chi_nhanh": {
+    "TP.HCM": 4050015000,
+    "Hà Nội": 3813970000,
+    "Đà Nẵng": 1680360000,
+    "Cần Thơ": 1081545000
+  },
+  "top5_san_pham": {
+    "Ghế công thái học": 2889000000,
+    "Máy in laser": 2730550000,
+    "Màn hình 24\"": 1345610000,
+    "Bàn làm việc": 1339250000,
+    "Hộp mực in": 896310000
+  },
+  "so_dong_trung_T8": 15,
+  "gia_tri_dong_trung_T8": 121655000,
+  "cac_cach_viet_chi_nhanh": {
+    "Hà Nội": [
+      "Hà Nội",
+      "Ha Noi",
+      "HN",
+      "hà nội "
+    ],
+    "TP.HCM": [
+      "TP.HCM",
+      "TP HCM",
+      "Hồ Chí Minh",
+      "HCM"
+    ],
+    "Đà Nẵng": [
+      "Đà Nẵng",
+      "Da Nang"
+    ],
+    "Cần Thơ": [
+      "Cần Thơ"
+    ]
+  },
+  "file_co_dong_tong_cong": [
+    "BC ban hang T1.xlsx",
+    "doanh thu thang 4_v2.xlsx",
+    "Ban hang T6 - gui chi Lan.xlsx",
+    "BC ban hang thang 12 FINAL.xlsx"
+  ],
+  "tong_SAI_neu_cong_SUM_thang": 13178585000,
+  "chenh_lech_neu_cong_SUM_thang": 2552695000,
+  "giai_thich_sai": "SUM cộng cả 15 dòng trùng T8 và 4 dòng TỔNG CỘNG, nhưng bỏ sót T5, T10 vì số lưu dạng chữ"
+}

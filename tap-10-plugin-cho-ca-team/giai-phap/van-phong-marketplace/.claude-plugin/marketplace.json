@@ -1,0 +1,14 @@
+{
+  "name": "van-phong-demo",
+  "description": "Bộ công cụ tự động hóa văn phòng của Công ty CP Demo Việt",
+  "owner": {
+    "name": "Phòng Kế hoạch - Tổng hợp"
+  },
+  "plugins": [
+    {
+      "name": "tro-ly-van-phong",
+      "source": "./plugins/tro-ly-van-phong",
+      "description": "Báo cáo tuần, trộn thư, kiểm tra hóa đơn, dọn thư mục an toàn, đội phân tích báo giá và phanh an toàn cho dữ liệu gốc"
+    }
+  ]
+}

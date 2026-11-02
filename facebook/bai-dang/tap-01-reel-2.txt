@@ -1,0 +1,4 @@
+Script dọn file dừng ở 242/318 vì phần mềm diệt virus. Đây là cách file hoàn tác cứu cả thư mục.
+
+🎬 Bản đầy đủ 5 phút: Tập 1 trên trang: Dọn 318 file lộn xộn, không mất một file (và một sự cố thật)
+#5PhutTuDongHoa #FoxFlow #TuDongHoa #ClaudeCode #VSCode

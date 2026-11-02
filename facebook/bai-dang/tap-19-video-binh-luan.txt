@@ -1,0 +1,3 @@
+📌 Prompt + file mẫu Tập 19: https://github.com/vitbau246/tu-dong-hoa-voi-claude/tree/main/tap-19-landing-page-seo
+Chạy python chuan-bi.py là có dữ liệu y hệt video.
+💬 Lần gần nhất bạn cần một landing page cho chiến dịch, bạn mất bao lâu? 🚀

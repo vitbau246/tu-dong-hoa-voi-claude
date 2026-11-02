@@ -1,0 +1,4 @@
+Nói thật: hook không phải tường thành tuyệt đối. Đây là 4 lớp bảo vệ nên có.
+
+🎬 Bản đầy đủ 5 phút: Tập 6 trên trang: Gắn phanh an toàn cho AI: Hooks
+#5PhutTuDongHoa #FoxFlow #TuDongHoa #ClaudeCode #VSCode

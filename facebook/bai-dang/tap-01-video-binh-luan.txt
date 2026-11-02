@@ -1,0 +1,3 @@
+📌 Prompt + file mẫu Tập 1: https://github.com/vitbau246/tu-dong-hoa-voi-claude/tree/main/tap-01-don-dep-downloads
+Chạy python chuan-bi.py là có dữ liệu y hệt video.
+💬 Thư mục Downloads của bạn đang có bao nhiêu file? Mình cá là hơn 300 😅 Comment con số của bạn nhé.

@@ -1,0 +1,21 @@
+{
+  "description": "Tự chấm điểm SEO mỗi khi Claude ghi file trong bai-viet/*.md; dưới 90 điểm thì trả lỗi để Claude tự sửa.",
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python",
+            "args": [
+              "${CLAUDE_PLUGIN_ROOT}/skills/viet-bai-seo/scripts/cham-diem-seo.py",
+              "--hook"
+            ],
+            "statusMessage": "Đang chấm điểm SEO..."
+          }
+        ]
+      }
+    ]
+  }
+}

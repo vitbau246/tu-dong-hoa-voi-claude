@@ -1,0 +1,57 @@
+{
+  "so_trang": 15,
+  "NGHIEM_TRONG": {
+    "robots.txt chặn /san-pham/ (5 trang sản phẩm)": true,
+    "noindex trên danh mục chính": [
+      "ghe-cong-thai-hoc/index.html"
+    ]
+  },
+  "CAO": {
+    "canonical trỏ sai": {
+      "san-pham/ghe-ergo-lite.html": "index.html"
+    },
+    "link nội bộ gãy": [
+      "khuyen-mai-cu.html (từ index)",
+      "blog/bai-da-xoa.html (từ blog)",
+      "san-pham/may-chieu-epson.html (từ máy in)"
+    ],
+    "trùng title": [
+      "san-pham/ghe-ergo-pro.html",
+      "san-pham/ghe-ergo-lite.html"
+    ],
+    "không có sitemap.xml": true
+  },
+  "TRUNG_BINH": {
+    "thiếu meta description": [
+      "san-pham/may-in-hp-107w.html",
+      "san-pham/ban-nang-ha.html"
+    ],
+    "H1: 2 thẻ": [
+      "blog/cach-chon-ghe.html"
+    ],
+    "H1: không có": [
+      "khuyen-mai.html"
+    ],
+    "trang mồ côi (không có link trỏ tới)": [
+      "blog/huong-dan-bao-quan-ghe.html",
+      "gioi-thieu.html",
+      "khuyen-mai.html"
+    ],
+    "thiếu viewport (mobile)": [
+      "blog/bo-tri-van-phong.html"
+    ],
+    "ảnh hero quá nặng": "anh/hero.png (~2,7 MB PNG)"
+  },
+  "THAP": {
+    "title > 60 ký tự": [
+      "san-pham/may-in-hp-107w.html",
+      "blog/bo-tri-van-phong.html"
+    ],
+    "thiếu canonical": [
+      "lien-he.html",
+      "gioi-thieu.html",
+      "khuyen-mai.html"
+    ],
+    "ảnh thiếu alt": "4 ảnh"
+  }
+}

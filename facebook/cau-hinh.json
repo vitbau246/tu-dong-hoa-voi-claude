@@ -1,0 +1,22 @@
+{
+  "ten_trang_mong_doi": "5 phút tự động hóa",
+  "chu_ky": "— FoxFlow · 5 phút tự động hóa",
+  "hashtag_chung": ["#5PhutTuDongHoa", "#FoxFlow", "#TuDongHoa", "#ClaudeCode", "#VSCode"],
+  "link_file_mau": "https://github.com/vitbau246/tu-dong-hoa-voi-claude",
+  "link_youtube_playlist": "",
+  "ngay_bat_dau": "2026-11-16",
+  "mui_gio": "+07:00",
+  "nghi": [["2027-02-03", "2027-02-12", "Tết Nguyên đán Đinh Mùi"]],
+  "khung_gio": {
+    "bai_moi":   {"thu": 0, "gio": "07:45"},
+    "video":     {"thu": 1, "gio_tuan_le": "11:45", "gio_tuan_chan": "20:00", "gio_sau_thu_nghiem": null},
+    "reel_1":    {"thu": 3, "gio": "12:15"},
+    "reel_2":    {"thu_tuan_le": 4, "gio_tuan_le": "20:30", "thu_tuan_chan": 5, "gio_tuan_chan": "09:00", "sau_thu_nghiem": null},
+    "so_tuan_thu_nghiem": 4
+  },
+  "trailer": [
+    {"truoc_tap": 1, "ten": "Trailer phần 1", "thu": 4, "gio": "20:00"},
+    {"truoc_tap": 11, "ten": "Trailer phần 2: Nâng cao", "thu": 4, "gio": "20:00"}
+  ],
+  "ghi_chu": "Thứ: 0 = Thứ 2 ... 6 = Chủ nhật. Sau 4 tuần thử nghiệm, điền 'gio_sau_thu_nghiem' và 'sau_thu_nghiem' (ví dụ {\"thu\": 4, \"gio\": \"20:30\"}) rồi chạy lại lap-lich.py."
+}

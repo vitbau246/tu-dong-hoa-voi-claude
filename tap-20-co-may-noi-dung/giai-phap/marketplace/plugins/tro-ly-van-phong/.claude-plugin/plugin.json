@@ -1,0 +1,8 @@
+{
+  "name": "tro-ly-van-phong",
+  "version": "1.0.0",
+  "description": "Trợ lý văn phòng: báo cáo tuần, trộn thư, kiểm tra hóa đơn, dọn thư mục an toàn, đội phân tích báo giá, phanh an toàn cho thư mục du-lieu-goc và thông báo Windows khi Claude xong việc.",
+  "author": {
+    "name": "Phòng Kế hoạch - Tổng hợp, Công ty CP Demo Việt"
+  }
+}

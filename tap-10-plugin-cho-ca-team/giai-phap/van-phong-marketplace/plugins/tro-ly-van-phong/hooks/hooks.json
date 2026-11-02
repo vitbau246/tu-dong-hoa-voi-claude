@@ -1,0 +1,41 @@
+{
+  "description": "Phanh an toàn: mọi thư mục tên du-lieu-goc chỉ được đọc. Chuông báo: thông báo Windows khi Claude xong việc hoặc cần duyệt.",
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash|PowerShell|Edit|Write|NotebookEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python",
+            "args": ["${CLAUDE_PLUGIN_ROOT}/hooks/phanh-an-toan.py"],
+            "statusMessage": "Phanh an toàn đang kiểm tra..."
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "powershell.exe",
+            "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "${CLAUDE_PLUGIN_ROOT}/hooks/chuong-bao.ps1", "-Loai", "xong"]
+          }
+        ]
+      }
+    ],
+    "Notification": [
+      {
+        "matcher": "permission_prompt",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "powershell.exe",
+            "args": ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", "${CLAUDE_PLUGIN_ROOT}/hooks/chuong-bao.ps1", "-Loai", "can-duyet"]
+          }
+        ]
+      }
+    ]
+  }
+}

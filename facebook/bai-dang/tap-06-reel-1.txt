@@ -1,0 +1,4 @@
+Chế độ tự động, không ai bấm gì, nhưng lệnh xóa vẫn bị chặn. Đây là cách.
+
+🎬 Bản đầy đủ 5 phút: Tập 6 trên trang: Gắn phanh an toàn cho AI: Hooks
+#5PhutTuDongHoa #FoxFlow #TuDongHoa #ClaudeCode #VSCode

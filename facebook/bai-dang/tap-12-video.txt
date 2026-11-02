@@ -1,0 +1,12 @@
+4 nhà nghiên cứu chạy song song + 1 kiểm chứng viên. Báo cáo chiến lược có ma trận độ tin cậy.
+
+Trong 5 phút, bạn sẽ biết:
+✅ Chia đề tài theo góc, không chồng lấn
+✅ Mỗi AI một file riêng: tránh lỗi kinh điển khi làm nhóm
+✅ Báo cáo tốt nói rõ điều CHƯA biết
+
+📌 Prompt + file mẫu để làm theo: ở bình luận đầu tiên.
+🔔 Theo dõi trang để không lỡ Tập 13: Duyệt web nâng cao: trang JavaScript, đăng nhập, cuộn vô hạn và "cửa sau" API
+
+— FoxFlow · 5 phút tự động hóa
+#5PhutTuDongHoa #FoxFlow #TuDongHoa #ClaudeCode #VSCode

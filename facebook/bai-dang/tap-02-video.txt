@@ -1,0 +1,12 @@
+Cộng SUM thẳng ra 13,18 tỷ. Số đúng: 10,63 tỷ. Lệch 2,5 tỷ, mà con số sai trông vẫn rất "hợp lý".
+
+Trong 5 phút, bạn sẽ biết:
+✅ Bước KHẢO SÁT: để AI liệt kê mọi lỗi trước khi gộp
+✅ 4 cách viết chữ "Hà Nội" và dòng TỔNG CỘNG bị cộng 2 lần
+✅ AI viết script một lần, tháng sau chạy lại trong 2 giây
+
+📌 Prompt + file mẫu để làm theo: ở bình luận đầu tiên.
+🔔 Theo dõi trang để không lỡ Tập 3: 30 hóa đơn PDF vào Excel trong 2 phút, bắt 3 hóa đơn có vấn đề
+
+— FoxFlow · 5 phút tự động hóa
+#5PhutTuDongHoa #FoxFlow #TuDongHoa #ClaudeCode #VSCode

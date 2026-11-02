@@ -1,0 +1,4 @@
+Claude vừa bắt được một lỗi nằm ngay trong prompt của mình, trước khi động vào bất kỳ file nào.
+
+🎬 Bản đầy đủ 5 phút: Tập 1 trên trang: Dọn 318 file lộn xộn, không mất một file (và một sự cố thật)
+#5PhutTuDongHoa #FoxFlow #TuDongHoa #ClaudeCode #VSCode

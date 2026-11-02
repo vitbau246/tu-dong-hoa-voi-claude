@@ -1,0 +1,14 @@
+# Thư viện để chạy chuan-bi.py / giai-phap của các tập và để Claude xử lý dữ liệu trong demo
+openpyxl>=3.1
+pandas>=2.0
+python-docx>=1.1
+reportlab>=4.0
+pdfplumber>=0.11
+# Phần 2 (tập 11–20)
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+pyyaml>=6.0
+markdown>=3.5
+pillow>=10.0
+playwright>=1.40   # dùng Microsoft Edge có sẵn (channel="msedge"), không cần "playwright install"
