@@ -19,11 +19,11 @@
     "mo_dau": "Cộng SUM thẳng ra 13,18 tỷ. Số đúng: 10,63 tỷ. Lệch 2,5 tỷ, mà con số sai trông vẫn rất \"hợp lý\".",
     "loi_ich": [
       "Bước KHẢO SÁT: để AI liệt kê mọi lỗi trước khi gộp",
-      "4 cách viết chữ \"Hà Nội\" và dòng TỔNG CỘNG bị cộng 2 lần",
-      "AI viết script một lần, tháng sau chạy lại trong 2 giây"
+      "AI tự kiểm tra \"khớp từng đồng\" mà vẫn sai 114 triệu, và câu hỏi giúp nó tự tìm ra lỗi",
+      "AI viết script một lần, tháng sau chạy lại trong 1,4 giây"
     ],
     "reel_1": "Chi nhánh Hà Nội được viết 4 kiểu trong cùng một báo cáo. Có một kiểu mắt thường không thể thấy.",
-    "reel_2": "Hai lỗi ngược chiều che cho nhau: cách một báo cáo sai 2,5 tỷ mà không ai phát hiện."
+    "reel_2": "AI tự kiểm tra, khớp đến từng đồng, mà vẫn sai 114 triệu. Đây là câu hỏi đã cứu báo cáo."
   },
   {
     "tap": 3,

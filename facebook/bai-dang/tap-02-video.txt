@@ -2,8 +2,8 @@ Cộng SUM thẳng ra 13,18 tỷ. Số đúng: 10,63 tỷ. Lệch 2,5 tỷ, mà 
 
 Trong 5 phút, bạn sẽ biết:
 ✅ Bước KHẢO SÁT: để AI liệt kê mọi lỗi trước khi gộp
-✅ 4 cách viết chữ "Hà Nội" và dòng TỔNG CỘNG bị cộng 2 lần
-✅ AI viết script một lần, tháng sau chạy lại trong 2 giây
+✅ AI tự kiểm tra "khớp từng đồng" mà vẫn sai 114 triệu, và câu hỏi giúp nó tự tìm ra lỗi
+✅ AI viết script một lần, tháng sau chạy lại trong 1,4 giây
 
 📌 Prompt + file mẫu để làm theo: ở bình luận đầu tiên.
 🔔 Theo dõi trang để không lỡ Tập 3: 30 hóa đơn PDF vào Excel trong 2 phút, bắt 3 hóa đơn có vấn đề

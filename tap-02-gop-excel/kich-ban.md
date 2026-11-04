@@ -7,6 +7,26 @@
 | **Dữ liệu** | `python chuan-bi.py` tạo `demo/du-lieu/` (12 file, 7 kiểu lỗi). Đáp án trong `dap-an.json` |
 | **Con số chốt** | Tổng đúng **10,63 tỷ** · Nếu cộng SUM thẳng sẽ ra **13,18 tỷ** (sai **2,55 tỷ**) · 15 dòng trùng ở T8 · Tháng cao nhất: T12 |
 
+## Kết quả lần chạy thật (Claude Code 2.1.312, 03/11/2026)
+
+Video dựng theo diễn biến thật này, khác kịch bản gốc ở bước ③. Tổng thời gian khoảng 264 giây, chi phí $4,20. JSON gốc nằm trong `video/du-lieu-that/tap-02/`.
+
+| Bước | Thời gian | Kết quả |
+|---|---|---|
+| ① Khảo sát (Plan) | 78 giây | Tìm đủ các loại lỗi, nhưng chỉ thấy **4 cặp trùng** ở T8 vì so trùng *trước* khi chuẩn hóa tên chi nhánh. Chính Claude có lưu ý điều này. |
+| ② Gộp | 68 giây | **1.409 dòng · 10.740.645.000 đ**: sai 114.755.000 đ (sót 11 dòng trùng kiểu "HN" và "Hà Nội") |
+| ③ Đối chiếu SUM | 36 giây | 13.178.585.000 đ, giải thích đủ 3 nguyên nhân, "khớp đến từng đồng"… nhưng lại đối chiếu với **chính con số sai** của nó |
+| ③b "Có bước nào làm ngược thứ tự không?" | 46 giây | Tự tìm ra lỗi loại trùng chạy trước bước chuẩn hóa, sửa lại và ra **1.398 dòng · 10.625.890.000 đ**. Khớp `dap-an.json`: 4 chi nhánh, top 1, T12. |
+| ④ Mẹo pro | 35 giây | Script nhận thư mục làm tham số, có thêm `-o`. Chạy lại mất **1,4 giây**. |
+
+Giải pháp mẫu (bản cuối) nằm trong `giai-phap/gop_bao_cao.py`.
+
+**PROMPT 3b** (thêm sau PROMPT 3; đây là câu hỏi đáng giá nhất của tập)
+```text
+Rà lại thứ tự các bước làm sạch trong gop_bao_cao.py: có bước nào lẽ ra phải làm TRƯỚC một bước khác mà script đang làm ngược không?
+Nếu có, sửa script, chạy lại và báo tổng mới cùng số dòng thay đổi.
+```
+
 ## Chuẩn bị
 
 1. `python chuan-bi.py`, sau đó mở thư mục `tap-02-gop-excel/demo` trong VS Code.
@@ -91,6 +111,7 @@ và thêm hướng dẫn sử dụng ngắn bằng tiếng Việt ở đầu fil
 |---|---|
 | Claude không bỏ dòng "TỔNG CỘNG" | Hỏi "Tổng của bạn có khớp với 10,63 tỷ không? Kiểm tra lại các dòng tổng cộng". Có thể dựng thành cảnh "AI cũng sai, và đây là cách bắt lỗi" (chất liệu rất tốt) |
 | Dedupe trước khi chuẩn hóa tên chi nhánh, nên chỉ bắt được ít hơn 15 dòng trùng | Nhắc "chuẩn hóa chi nhánh trước rồi mới lọc trùng" |
+| `UnicodeEncodeError: 'charmap'` khi chạy lại script trong cửa sổ lệnh Windows | Console đang dùng cp1252. Chạy `set PYTHONIOENCODING=utf-8` (CMD) hoặc `$env:PYTHONIOENCODING="utf-8"` (PowerShell) trước, hoặc bảo Claude thêm `sys.stdout.reconfigure(encoding="utf-8")` vào đầu script |
 | Biểu đồ không hiện trong Excel | Yêu cầu dùng `openpyxl.chart.BarChart` (biểu đồ gốc của Excel) |
 
 ## Gói đăng tải

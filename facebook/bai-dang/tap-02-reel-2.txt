@@ -1,4 +1,4 @@
-Hai lỗi ngược chiều che cho nhau: cách một báo cáo sai 2,5 tỷ mà không ai phát hiện.
+AI tự kiểm tra, khớp đến từng đồng, mà vẫn sai 114 triệu. Đây là câu hỏi đã cứu báo cáo.
 
 🎬 Bản đầy đủ 5 phút: Tập 2 trên trang: Gộp 12 file Excel, phát hiện báo cáo SAI 2,5 tỷ
 #5PhutTuDongHoa #FoxFlow #TuDongHoa #ClaudeCode #VSCode
